@@ -1,0 +1,6 @@
+[submodule "shareme_backend/shareme"]
+	path = shareme_backend/shareme
+	url = https://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@github.com/OpeyemiAkande/clone_backup.git
+[submodule "shareme_frontend/shareme"]
+	path = shareme_frontend/shareme
+	url = https://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@github.com/OpeyemiAkande/clone_backup.git
